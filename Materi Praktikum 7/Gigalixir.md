@@ -1,0 +1,1 @@
+<p>dengan zeit berhubungan dengan javascript rencananya sy akan membuat project namun ada sedikit terkendala yang akan menjadi tanggungan saya dengan menggunakan vue-cli namun ada sedikit kendala pada saat menjalankan berikut dokumentasi saya yang terjadi error pada penggunaan Nuxt.js</p>
